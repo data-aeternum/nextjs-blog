@@ -1,0 +1,21 @@
+.post {
+    width: 100%;
+    padding: 2rem;
+    border: 1px solid #d9e2ec;
+    border-radius: 12px;
+    background: #f7fafc;
+    box-shadow: 0 8px 20px rgba(31, 52, 73, 0.08);
+}
+
+.title {
+    margin: 0;
+    color: #243b53;
+    font-size: 2.25rem;
+}
+
+.link {
+    display: inline-block;
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
